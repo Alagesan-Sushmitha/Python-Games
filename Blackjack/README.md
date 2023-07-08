@@ -1,3 +1,9 @@
+
+
+
+![Black-Jack](https://github.com/Alagesan-Sushmitha/Python-Games/assets/137837229/30c72144-ffb6-4283-9965-9cbce4ac6764)
+
+
 # Blackjack Game
 * This is a command-line based implementation of the popular casino card game Blackjack, developed in Python. 
 * The game follows standard Blackjack rules, where the player competes against the dealer to achieve a hand value as close to 21 as possible without exceeding it.
