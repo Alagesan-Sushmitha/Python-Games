@@ -28,7 +28,7 @@
 ### UML Diagram
 The UML diagram represents the structure of a Blackjack game. It includes classes such as Player, Dealer, Game, Hand, Deck, and Card, along with their relationships. This diagram visualizes the game's components, interactions, and hierarchy, providing a comprehensive overview of the game's implementation.
 
-https://cacoo.com/diagrams/sR60IKdmxOw7j7Te/8476E
+[https://cacoo.com/diagrams/sR60IKdmxOw7j7Te/8476E](https://cacoo.com/diagrams/sR60IKdmxOw7j7Te/8476E)
 
 
 ![image](https://github.com/Alagesan-Sushmitha/Python-Games/assets/137837229/acaec7cd-cd6d-45cb-8029-9e4d51af93ae)
