@@ -24,3 +24,9 @@
 * The game enforces Blackjack rules, including bust conditions and dealer drawing rules.
 * Console output provides a clear representation of the game state and results.
 * Enjoy playing Blackjack in this Python implementation! Test your luck and skill in pursuit of the perfect hand. Good luck!
+
+### UML Diagram
+The UML diagram represents the structure of a Blackjack game. It includes classes such as Player, Dealer, Game, Hand, Deck, and Card, along with their relationships. This diagram visualizes the game's components, interactions, and hierarchy, providing a comprehensive overview of the game's implementation.
+
+![image](https://github.com/Alagesan-Sushmitha/Python-Games/assets/137837229/acaec7cd-cd6d-45cb-8029-9e4d51af93ae)
+
