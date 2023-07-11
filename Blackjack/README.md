@@ -33,3 +33,9 @@ cacoo.com/diagrams/sR60IKdmxOw7j7Te/8476E
 
 ![image](https://github.com/Alagesan-Sushmitha/Python-Games/assets/137837229/acaec7cd-cd6d-45cb-8029-9e4d51af93ae)
 
+###  Flow Chart
+Flow charts provides a graphical representation of the logical flow of steps, helping to visualize the sequence of actions and decision points within a process. It can be used to identify bottlenecks, inefficiencies, or potential improvements in a process, as well as to facilitate understanding and communication among team members or stakeholders
+
+![image](https://github.com/Alagesan-Sushmitha/Python-Games/assets/137837229/910a9928-5db6-4bc8-89f7-b6830086adca)
+
+
